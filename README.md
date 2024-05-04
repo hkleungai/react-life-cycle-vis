@@ -16,6 +16,10 @@ block-beta
     classDef DASH_LINE stroke-dasharray: 5,5, height:1px, stroke-width:1px;
     columns 10
 
+%% row 0
+DL_ROW_SUBROW_0[" "]:10
+class DL_ROW_SUBROW_0 HIDDEN
+
 %% row 1
     space:1
 
@@ -116,7 +120,6 @@ block-beta
         DL_ROW_10_SUBROW_3[" "]
         DL_ROW_10_SUBROW_4[" "]
 
-        classDef HIDDEN display:none;
         class DL_ROW_10_SUBROW_1,DL_ROW_10_SUBROW_2,DL_ROW_10_SUBROW_3 HIDDEN
         class DL_ROW_10_SUBROW_4 DASH_LINE
     end
@@ -149,7 +152,6 @@ block-beta
         DL_ROW_13_SUBROW_3[" "]
         DL_ROW_13_SUBROW_4[" "]
 
-        classDef HIDDEN display:none;
         class DL_ROW_13_SUBROW_1,DL_ROW_13_SUBROW_2,DL_ROW_13_SUBROW_3 HIDDEN
         class DL_ROW_13_SUBROW_4 DASH_LINE
     end
@@ -185,4 +187,11 @@ block-beta
     componentDidMountCall["<b>component\nDidMount()</b>"]:3
     componentDidUpdateCall["<b>component\nDidUpdate()</b>"]:3
     componentWillUnmountCall["<b>component\nWillUnmount()</b>"]:3
+
+%% row inf
+DL_ROW_INF_SUBROW_1[" "]:10
+DL_ROW_INF_SUBROW_2[" "]:10
+DL_ROW_INF_SUBROW_3[" "]:10
+class DL_ROW_INF_SUBROW_1,DL_ROW_INF_SUBROW_2,DL_ROW_INF_SUBROW_3 HIDDEN
+
 ```
