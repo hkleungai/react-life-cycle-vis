@@ -42,7 +42,7 @@ class DL_ROW_SUBROW_0 HIDDEN
 %% row 3
     space:1
 
-    constructorCall["<b>constructor()</b>"]:3
+    constructorCall["🔗 <b><a href="https://legacy.reactjs.org/docs/react-component.html#constructor" style="text-decoration:none;color:#ccc;">constructor()</a></b>"]:3
 
     NewProps["<i>New Props</i>"]
     class NewProps BORDER_NONE
@@ -69,7 +69,7 @@ class DL_ROW_SUBROW_0 HIDDEN
     renderPhase["<h3>Render\nPhase</h3>"]:1
     class renderPhase BORDER_NONE
 
-    getDerivedStateFromPropsCall["getDerivedState\nFromProps()"]:6
+    getDerivedStateFromPropsCall["<a href="https://legacy.reactjs.org/docs/react-component.html#static-getderivedstatefromprops" style="text-decoration:none;color:#ccc;">🔗 getDerivedState\nFromProps()</a>"]:6
 
     A_ROW_5_COL_8_10 <[" "]>(down):3
 
@@ -89,7 +89,7 @@ class DL_ROW_SUBROW_0 HIDDEN
 
     A_ROW_7_COL_2_4 <[" "]>(down):3
 
-    shouldComponentUpdateCall["should\nComponent\nUpdate()"]:2
+    shouldComponentUpdateCall["<a href="https://legacy.reactjs.org/docs/react-component.html#shouldcomponentupdate" style="text-decoration:none;color:#ccc;">🔗 should\nComponent\nUpdate()</a>"]:2
     A_ROW_7_COL_6_7 <[" "]>(down):1
 
     A_ROW_7_COL_8_10 <[" "]>(down):3
@@ -108,7 +108,7 @@ class DL_ROW_SUBROW_0 HIDDEN
 %% row 9
     space:1
 
-    renderCall["<b>render()</b>"]:6
+    renderCall["🔗 <b><a href="https://legacy.reactjs.org/docs/react-component.html#render" style="text-decoration:none;color:#ccc;">render()</a></b>"]:6
 
     A_ROW_9_COL_8_10 <[" "]>(down):3
 
@@ -140,7 +140,7 @@ class DL_ROW_SUBROW_0 HIDDEN
 
     A_ROW_12_COL_2_4 <[" "]>(down):3
 
-    getSnapshotBeforeUpdateCall["getSnapshot\nBeforeUpdate()"]:3
+    getSnapshotBeforeUpdateCall["<a href="https://legacy.reactjs.org/docs/react-component.html#getsnapshotbeforeupdate" style="text-decoration:none;color:#ccc;">🔗 getSnapshot\nBeforeUpdate()</a>"]:3
 
     A_ROW_12_COL_8_10 <[" "]>(down):3
 
@@ -184,9 +184,9 @@ class DL_ROW_SUBROW_0 HIDDEN
 %% row 17
     space:1
 
-    componentDidMountCall["<b>component\nDidMount()</b>"]:3
-    componentDidUpdateCall["<b>component\nDidUpdate()</b>"]:3
-    componentWillUnmountCall["<b>component\nWillUnmount()</b>"]:3
+    componentDidMountCall["🔗 <b><a href="https://legacy.reactjs.org/docs/react-component.html#componentdidmount" style="text-decoration:none;color:#ccc;">component\nDidMount()</a></b>"]:3
+    componentDidUpdateCall["🔗 <b><a href="https://legacy.reactjs.org/docs/react-component.html#componentdidupdate" style="text-decoration:none;color:#ccc;">component\nDidUpdate()</a></b>"]:3
+    componentWillUnmountCall["🔗 <b><a href="https://legacy.reactjs.org/docs/react-component.html#componentwillunmount" style="text-decoration:none;color:#ccc;">component\nWillUnmount()</a></b>"]:3
 
 %% row inf
 DL_ROW_INF_SUBROW_1[" "]:10
